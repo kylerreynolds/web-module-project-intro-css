@@ -43,8 +43,6 @@ blockquote, q {
     max-width:100%
 }
 /*General Styles*/
-
-
 html{
     font-size:62.5%
 }
@@ -59,7 +57,12 @@ h1{
     font-family: 'Chelsea Market', cursive;
     font-size: 5rem;
 }
-
+h2{
+    font-size: 2rem;
+}
+p{
+    font-size: 2rem;
+}
 a{
     font-family: 'Roboto Mono', monospace;
     text-decoration: none;
@@ -117,6 +120,41 @@ nav a{
 .right div{
     position:absolute;
     top:40%;
+}
+
+footer{
+    background-color: #F9E7DC;
+}
+footer img{
+    height: 20%;
+}
+.middle{
+    background-color: #DDB9A3;
+    margin: 0% 5%;
+    padding: 5%;
+    color: #fff;
+    font-size: 2rem;
+}
+.fire{
+    margin: 0% 20% 5%;
+    text-align: center;
+}
+.fire p{
+    margin: 0% 25%;
+}
+.fire img{
+    width: 10%;
+    align-content: center;
+}
+.car{
+    margin: 0% 20% 5%;
+    text-align: center;
+}
+.car p{
+    margin: 0% 25%;
+}
+.car img{
+    width: 10%;
 }
 
 
